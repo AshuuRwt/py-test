@@ -1,6 +1,6 @@
 {
   "functions": {
-    "*.py": {
+    "1st.py": {
       "runtime": "python3.9"
     }
   }
